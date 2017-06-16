@@ -2,7 +2,7 @@
 
 namespace Sexion\Handlers;
 
-class DoctrineDBAL implements SessionHandlerInterface
+class DoctrineDBAL implements \SessionHandlerInterface
 {
   private $_db;
   private $_session_key;
