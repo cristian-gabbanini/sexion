@@ -1,0 +1,24 @@
+{
+    "name": "begenius/session",
+    "description": "Simple PHP sessions abstraction layer.",
+    "keywords": ["php", "session"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Gabbanini",
+            "email": "cristian.gabbanini@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+        "php": ">=5.4"
+    },
+	"require-dev": {
+        "phpunit/phpunit": "5.2.*"
+    },
+        "autoload": {
+        "psr-4": {
+            "Begenius\\Session\\": "src/"
+        }
+    }
+}
