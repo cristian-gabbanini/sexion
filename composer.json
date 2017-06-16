@@ -1,5 +1,5 @@
 {
-    "name": "begenius/session",
+    "name": "cgabbanini/sexion",
     "description": "Simple PHP sessions abstraction layer.",
     "keywords": ["php", "session"],
     "license": "MIT",
