@@ -1,8 +1,8 @@
 <?php
 
-namespace Begenius\Session;
+namespace Sexion;
 
-class SessionManager
+class Sexion
 {
   private $_providers = [];  
   

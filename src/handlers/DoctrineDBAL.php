@@ -1,8 +1,8 @@
 <?php
 
-namespace Begenius\Session\Handlers;
+namespace Sexion\Handlers;
 
-class DoctrineDBALHandler implements SessionHandlerInterface
+class DoctrineDBAL implements SessionHandlerInterface
 {
   private $_db;
   private $_session_key;
